@@ -5,4 +5,4 @@
 - [Peg - Steely Dan](GuitarTab/Peg_Steely_Dan.md)
 
 ## Links to Guitar Tabs on Github
-- [Bouree by Bach](../alexpana/guitar-tabs/blob/master/Bouree%20by%20Bach.txt)
+- [Bouree by Bach](https://github.com/alexpana/guitar-tabs/blob/master/Bouree%20by%20Bach.txt)
