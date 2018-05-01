@@ -1,4 +1,4 @@
-# Colin Hay - _Overkill_ Tutorial
+# Overkill (Collin Hay) Tutorial
 
 From Colin's youtube tutorial [video](https://www.youtube.com/watch?v=yWbjnuWU4iQ).
 
@@ -6,6 +6,7 @@ _Note_: double drop D tuning (tune both E strings down to D).
 
 ## Tabs
 
+```
 x57070
 
 x47070
@@ -49,5 +50,4 @@ x24030
 -------5-
 
 x02222
-
-
+```
